@@ -12,8 +12,6 @@ public class AppSepultamento {
 		System.out.println("Situação Inicial: " + corpo.getSituacao());
 		System.out.println("================================================");
 
-		
-
 		sepultamento.sepultar();
 		sepultamento.getTumulo().isOcupado();
 
