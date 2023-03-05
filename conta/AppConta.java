@@ -39,6 +39,8 @@ public class AppConta {
 		System.out.println("Tipo da Conta: " + conta.tipo);
 		System.out.printf("Saldo em Conta: %.2f", conta.saldo);
 		
+		System.out.println("Teste");
+		
 		lerTeclado.close();
 	}
 }
