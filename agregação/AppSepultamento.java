@@ -4,6 +4,7 @@ public class AppSepultamento {
 
 	public static void main(String[] args) {
 
+		
 		Corpo corpo = new Corpo(07, "Francisco");
 		Tumulo tumulo = new Tumulo(1, "Recife ");
 		Sepultamento sepultamento = new Sepultamento(22, "12/11/2022", corpo, tumulo);
