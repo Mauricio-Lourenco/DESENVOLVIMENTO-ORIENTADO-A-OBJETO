@@ -29,7 +29,7 @@ public class AppSepultamento {
 		} else {
 			System.out.println("Ocupado");
 		}
-
+		
 		System.out.print("===========================================");
 
 		exumacao.exumar();
