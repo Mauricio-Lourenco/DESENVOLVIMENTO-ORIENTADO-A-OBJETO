@@ -26,7 +26,8 @@ public class AppConta {
 			conta.deposito(deposito);
 		}
 		
-		System.out.println("====================");
+		System.out.println("====");
+		System.out.println("");
 		
 		for ( int i = 0; i < 2; i++) {
 			System.out.println("Digite o valor do saque: ");
