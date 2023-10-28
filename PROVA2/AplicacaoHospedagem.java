@@ -18,7 +18,7 @@ public class AplicacaoHospedagem {
 
 		Hospedagem hospedagem = new Hospedagem(01, quarto.get(1));
 		
-		System.out.println(quarto);
+		System.out.println(hospedagem);
 		
 
 	}
