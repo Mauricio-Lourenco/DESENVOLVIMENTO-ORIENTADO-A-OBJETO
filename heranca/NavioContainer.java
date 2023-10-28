@@ -1,4 +1,4 @@
-package herancaNavio;
+package heranca;
 
 public class NavioContainer extends Navio {
 

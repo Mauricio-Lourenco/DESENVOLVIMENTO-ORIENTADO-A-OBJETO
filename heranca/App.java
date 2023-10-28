@@ -1,4 +1,4 @@
-package herancaNavio;
+package heranca;
 
 import java.util.ArrayList;
 import java.util.List;

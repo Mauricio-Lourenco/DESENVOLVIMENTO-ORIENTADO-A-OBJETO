@@ -1,4 +1,4 @@
-package herancaNavio;
+package heranca;
 
 public abstract class Navio {
 	private int id;
