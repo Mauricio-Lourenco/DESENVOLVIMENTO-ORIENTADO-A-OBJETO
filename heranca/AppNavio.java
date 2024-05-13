@@ -3,7 +3,7 @@ package heranca;
 import java.util.ArrayList;
 import java.util.List;
 
-public class App {
+public class AppNavio {
 
 	public static void main(String[] args) {
 
@@ -16,6 +16,9 @@ public class App {
 		navioContainer.add(new NavioContainer(33, "Bela Fera", 2, 100000, 2, 30));
 		navioContainer.add(new NavioContainer(48, "Arrecifes", 2, 120000, 2, 30));
 		navioContainer.add(new NavioContainer(52, "Águas Belas", 1, 90000, 0, 25));
+		
+		//System.out.println(navioGraneleiro);
+		//System.out.println(navioContainer);
 
 	}
 
