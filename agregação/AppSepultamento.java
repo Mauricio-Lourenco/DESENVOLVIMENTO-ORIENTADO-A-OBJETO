@@ -31,7 +31,7 @@ public class AppSepultamento {
 			System.out.println("Ocupado");
 		}
 		
-		System.out.print("===========================================");
+		System.out.print("============================================");
 
 		exumacao.exumar();
 		System.out.println("\nData               : " + sepultamento.getData());
